@@ -1,0 +1,15 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	Digit_Loop        3002
+//	Bit_Loop          3006
+//	Neg_Loop          3009
+//	Pos_Loop          300A
+//	Less_than_equal   3012
+//	More_than         3014
+//	PRINTS            3016
+//	A_Fill            301A
+//	A10               301B
+//	DONE              301C
+
